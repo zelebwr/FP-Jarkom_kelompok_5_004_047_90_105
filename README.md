@@ -7,7 +7,7 @@
 |Tiara Fatimah Azzahra | 5027241090 |
 | Jonathan Zelig Sutopo | 5027241047 |
 | Mey Rosalina| 5027241004 |
-| Naruna | 5027241105 |
+| Naruna   | 5027241105 |
 
 **Teknologi Informasi**  
 **Institut Teknologi Sepuluh Nopember**
